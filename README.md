@@ -14,10 +14,6 @@ I'm a passionate Data Scientist based in Jaipur. I love to play Guitar and watch
 - Programming languages: [Basic Python ]
 - Web development: [Basic html]
 - Data Science: [Statistics,Pandas,Numpy,ML models,MySQL,Tableau,PowerBI,Supervised & unsupervised]
-- ...
-
-
-- ...
 
 ## Connect with Me
 
@@ -27,10 +23,10 @@ I'm a passionate Data Scientist based in Jaipur. I love to play Guitar and watch
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulgoyal602&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoyal602&layout=compact&theme=radical)
 
 
