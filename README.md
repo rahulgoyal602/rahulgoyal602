@@ -29,4 +29,7 @@ I'm a passionate Data Scientist based in Jaipur. I love to play Guitar and watch
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgoyal602&layout=compact&theme=radical)
 
+1. MySQL
+2. Basic Python
+
 
