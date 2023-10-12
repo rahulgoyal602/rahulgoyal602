@@ -1,10 +1,36 @@
-- 👋 Hi, I’m rahul goyal
-- 👀 I’m interested in data science and data analytics
-- 🌱 I’m currently learning data science and analytics
-- 💞️ I’m looking to collaborate on on data science project.
-  
+# Hello, I'm Rahul Goyal 👋
 
-<!---
-rahulgoyal602/rahulgoyal602 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Data Scientist based in Jaipur. I love to play Guitar and watching animation series and enjoy to sing when I need peace.
+
+## About Me
+
+- 🌱 I’m currently learning Data Science & analytics
+- 💼 I work at Genpact
+- 🔭 I’m currently working on different projects.
+- 📚 I'm interested in data science projects.
+
+## Skills
+
+- Programming languages: [Basic Python ]
+- Web development: [Basic html]
+- Data Science: [Statistics,Pandas,Numpy,ML models,MySQL,Tableau,PowerBI,Supervised & unsupervised]
+- ...
+
+
+- ...
+
+## Connect with Me
+
+- 📫 Reach me at: rahulgoyal602@gmail.com
+- 💼 Connect with me on [LinkedIn]) (www.linkedin.com/in/rahul-goyal-22966b117)
+-  Follow me on [Instagram] (agrawalmusic)
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+
