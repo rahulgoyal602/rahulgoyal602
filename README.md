@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rahulgoyal602@gmail.com**
 
-- ⚡ Fun fact **I think I am good singer**
+- ⚡ Fun fact **I think I am a good singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
