@@ -1,4 +1,4 @@
-[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)]
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Goyal</h1>
 <h3 align="center">I'm a passionate Data Scientist based in India. I love to play Guitar and watching animation series and enjoy to sing when I need peace.</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg">
