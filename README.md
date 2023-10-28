@@ -1,6 +1,6 @@
 ![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Rahul Goyal</h1>
-<h3 align="center">I'm a passionate Data Scientist based in India. I love to play Guitar and watching animation series and enjoy to sing when I need peace.</h3>
+<h3 align="center">"I am a dedicated Data Scientist based in India with three years of experience in data analytics. My heart resonates with the soothing melodies of the Guitar, and I find solace in the harmonious notes, occasionally embracing the bliss of song when seeking moments of peace.".</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgoyal602&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgoyal602" /> </p>
